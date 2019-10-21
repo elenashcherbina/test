@@ -27,12 +27,12 @@
 }
 
 .logo::first-letter {
-    color: #1abc9c;
+   /* color: #1abc9c;
 }
 
 .menu {
     display: inline-block;
-    margin-left: calc(100%-100px);
+    margin-left: 530px;
 }
 
 .menu a {
